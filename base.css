@@ -52,3 +52,9 @@ a{
     padding-top: 11px;
     padding-bottom: 13px;
 }
+.carousel-item{
+    height: 32rem;
+    background: #777;
+    color: white;
+    position: relative;
+}
